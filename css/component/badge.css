@@ -1,0 +1,21 @@
+.badge {
+  background-color: red;
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-weight: 600;
+}
+
+.badge__find {
+  background-color: red;
+  width: 5px;
+  height: 5px;
+  border-radius: 2.5px;
+  display: flex;
+  margin-top: 40px;
+  margin-right: 5px;
+}

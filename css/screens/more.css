@@ -1,0 +1,14 @@
+.icon-row__second {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px;
+}
+
+.more-suggestions {
+  margin-top: 50px;
+  border-top: var(--main_border);
+}
+
+.icon-row__icon_1 {
+  opacity: 0;
+}
